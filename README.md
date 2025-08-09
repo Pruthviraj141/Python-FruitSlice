@@ -15,6 +15,5 @@ python game.py
 ![Gameplay Demo](https://github.com/Pruthviraj141/Python-FruitSlice/raw/main/gameplay_1.gif)
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
-https://github.com/user-attachments/assets/d1ccaec3-b526-433d-a1f1-94cd9f459f6c
+!https://github.com/user-attachments/assets/734b3480-962f-42c1-8b44-20e5429cf229
 
