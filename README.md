@@ -11,9 +11,15 @@ git clone https://github.com/Pruthviraj141/Python-FruitSlice
 cd yourrepo
 pip install pygame
 python game.py
+```
 
-![Gameplay Demo](https://github.com/Pruthviraj141/Python-FruitSlice/raw/main/gameplay_1.gif)
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-!https://github.com/user-attachments/assets/734b3480-962f-42c1-8b44-20e5429cf229
+
+https://github.com/user-attachments/assets/38c14b3f-701c-49a7-b483-54fd7a29a50c
+
+
+
+https://github.com/user-attachments/assets/10ff6a29-92db-41bb-bdb5-603cb9c08f41
+
+
 
