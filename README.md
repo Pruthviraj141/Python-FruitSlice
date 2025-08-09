@@ -12,7 +12,7 @@ cd yourrepo
 pip install pygame
 python game.py
 
-![Gameplay Demo](https://github.com/Pruthviraj141/Python-FruitSlice/raw/main/gameplay%20(1).gif)
+![Gameplay Demo](https://github.com/Pruthviraj141/Python-FruitSlice/raw/main/gameplay_1.gif)
 
 
 https://github.com/user-attachments/assets/d1ccaec3-b526-433d-a1f1-94cd9f459f6c
